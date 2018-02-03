@@ -83,3 +83,6 @@ input {
 	padding: 0.5rem 1rem;
 	text-align: center;
 }
+.question--self{
+	border-top: 4px solid #db446f;
+}
